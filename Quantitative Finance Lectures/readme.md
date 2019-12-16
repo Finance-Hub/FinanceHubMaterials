@@ -4,9 +4,4 @@ Here you will find a set of notebooks to help get started with implementing some
 
 ## Trackers
 
-Financial time series are the "atoms" of quantitative finance. Hence, it is important that these financial time series realistically reflect the **total returns** Total return, when measuring performance, is the actual rate of return of an investment or a pool of investments over a given evaluation period. Total return includes interest, capital gains, dividends and distributions realized over a given period of time.
-
-
-Total return accounts for two categories of return: income including interest paid by fixed-income investments, distributions or dividends and capital appreciation, representing the change in the market price of an asset.
-
-as everything we learn applies to 
+Financial time series are the "atoms" of quantitative finance. Hence, it is important that these financial time series realistically reflect the cumulative **total returns** of those asssets and not simply their prices over time. Total return is the actual rate of return of a position, portfolios or strategy over a given evaluation period, typically a business day. Total return of an asset has to include interest gained or paid when holding the position, capital gains coming from price or exchange rate variations in the period as well as dividends, coupons, borrow costs, and other distributions or payments realized over the period of time the asset was held. For example, check out our Jupyter Notebook on how to create a financial time series for trading currencies!
