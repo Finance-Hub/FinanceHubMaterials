@@ -12,5 +12,5 @@ Sometimes constructing these financial time series can be very difficult as the 
 
 ## Machine learning
 
-While our focus is on basic quantitative strategies described in the academic literature of factors and commonly employed in practice, we do give some examples of more sophisticated models. For example, check out or example here for using AWS SageMaker for training, validating, and testing a regression tree model to predict future returns of financial time series based on momentum signals [here](https://github.com/Finance-Hub/FinanceHubMaterials/blob/master/Quantitative%20Finance%20Lectures/momentum_with_regression_trees.ipynb)!
+While our focus is on basic quantitative strategies described in the academic literature of factors and commonly employed in practice, we do give some examples of more sophisticated models. For example, check out or example here for using AWS SageMaker for training, validating, and testing a regression tree model to predict future returns of financial time series based on momentum signals [here](https://github.com/Finance-Hub/FinanceHubMaterials/blob/master/Quantitative%20Finance%20Lectures/momentum_with_regression_trees.ipynb)! Check out also the notebooks we use [PCA to construct portfolios]() and [clustering algos]() to decide which currencies to trade against each other.
 
