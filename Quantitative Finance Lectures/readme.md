@@ -8,4 +8,9 @@ Financial time series are the "atoms" of quantitative finance. Hence, it is impo
 
 ## Pricing
 
-Sometimes constructing these financial time series can be very difficult as the valuation of the underlying instruments can be a very challenging thing to do based on pulically available data. Check out our notebook that shows how to price and calculate the returns of a plain-vanilla interest rate swap [here]()
+Sometimes constructing these financial time series can be very difficult as the valuation of the underlying instruments can be a very challenging thing to do based on pulically available data. Check out our notebook that shows how to price and calculate the returns of a plain-vanilla interest rate swap [here](https://github.com/Finance-Hub/FinanceHubMaterials/blob/master/Quantitative%20Finance%20Lectures/interest_rate_swaps.ipynb)
+
+## Machine learning
+
+While our focus is on basic quantitative strategies described in the academic literature of factors and commonly employed in practice, we do give some examples of more sophisticated models. For example, check out or example here for using AWS SageMaker for training, validating, and testing a regression tree model to predict future returns of financial time series based on momentum signals [here]()!
+
