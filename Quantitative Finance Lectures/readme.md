@@ -8,7 +8,7 @@ Financial time series are the "atoms" of quantitative finance. Hence, it is impo
 
 ## Signals
 
-We use financial time series to generate trading signals. There are many of them, using simple as well as complex modeling techniques. Check out our notebook on [Classic Momentum Signals](https://github.com/Finance-Hub/FinanceHubMaterials/blob/master/Quantitative%20Finance%20Lectures/time_series_momentum.ipynb) as well as on [Carry Signals](https://github.com/Finance-Hub/FinanceHubMaterials/blob/master/Quantitative%20Finance%20Lectures/carry.ipynb)
+We use financial time series to generate trading signals. There are many of them, using simple as well as complex modeling techniques. Check out our notebook on [Classic Momentum Signals](https://github.com/Finance-Hub/FinanceHubMaterials/blob/master/Quantitative%20Finance%20Lectures/time_series_momentum.ipynb), [Carry Signals](https://github.com/Finance-Hub/FinanceHubMaterials/blob/master/Quantitative%20Finance%20Lectures/carry.ipynb), and [Value signals for stocks](https://github.com/Finance-Hub/FinanceHubMaterials/blob/master/Quantitative%20Finance%20Lectures/value_strategies_for_stocks.ipynb)
 
 ## Pricing
 
