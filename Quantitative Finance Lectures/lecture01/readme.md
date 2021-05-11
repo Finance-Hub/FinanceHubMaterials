@@ -209,3 +209,16 @@ A credit default swap (CDS) is type of contract through which two counterparties
 Note that since the investor is buying and selling protection on the underlying asset, it actually does not need to own the underlying asset in order to profit from its credit-worthiness related price movements. You can actually buy and sell very large sums without really having much money in my bank account. In fact, here are more CDS contracts outstanding than bonds in existence.
 
 As it is discussed in [Hull's classic textbook on derivatives](https://www.amazon.com.br/Options-Futures-Other-Derivatives-10th/dp/013447208X), trading and pricing CDS requires some complicated math. So, we will leave the details of how to calculate returns on CDS for another lecture. For now, it sufficies for us to say that CDS are unfunded instruments that quantitative strategies, and institutional investors in general, typically use to benefit from movements in the credit-worthiness of underlying credit-linked underlying securities.
+
+
+```python
+import os
+os.getcwd()
+```
+
+
+
+
+    'C:\\Users\\gsoares\\AppData\\Local\\bipy\\18430058\\projects\\7279115504b04b72bcbf04165afe96a6'
+
+
